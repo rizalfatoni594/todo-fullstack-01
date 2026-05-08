@@ -71,7 +71,7 @@ export default function App() {
 
   return (
     <div>
-      <h1>Tood App</h1>
+      <h1>Todo</h1>
       <form onSubmit={(e) => handleSubmit(e)}>
         <input
           type='text'
